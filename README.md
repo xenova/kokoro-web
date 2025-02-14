@@ -2,6 +2,8 @@
 
 ML-powered speech synthesis directly in your browser! Built with [🤗 Transformers.js](https://huggingface.co/docs/transformers.js).
 
+https://github.com/user-attachments/assets/32246366-a550-4810-81d6-a67c1dbe550b
+
 Check out the demo site [here](https://huggingface.co/spaces/Xenova/kokoro-web).
 
 ## Running locally
